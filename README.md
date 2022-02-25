@@ -1,2 +1,2 @@
-# HomePage
-Geasis Company Home Page for now
+# Home Page
+Geasis Company's Home Page for now
